@@ -5,7 +5,7 @@ a. Input : "String is fun for learning"
 b. Output : "StringIsFunForLearning"
 
 */
-
+// bug 
 
 #include<stdio.h>
 
