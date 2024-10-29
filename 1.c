@@ -6,7 +6,7 @@ b. Output : yes exists at 11th position.
 
 */
 
-
+// bug
 
 #include<stdio.h>
 #include<string.h>
